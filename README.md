@@ -1,4 +1,4 @@
-
+## Queen_Anita-V1
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Created David Cyril ⚡</u>
@@ -23,7 +23,7 @@
 ## Queen_Anita-V1 Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Queen_Anita-V1/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`CREDS.JSON`](https://replit.com/@deeceexxx01/DavidCyril-X-pair-1)** 
+2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@deeceexxx01/DavidCyril-X-pair-1)** 
 
 3. **UPLOAD YOUR CREDS.JSON FILE ON SESSION FOLDER**
 
@@ -55,7 +55,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # 
 <br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+      </a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 * [🧑‍💻 Follow Queen_Anita-V2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)
 
