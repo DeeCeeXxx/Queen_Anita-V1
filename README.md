@@ -55,9 +55,9 @@
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Queen_Anita-V2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)
+* [🧑‍💻 Follow Queen_Anita-V1 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)
 
-* [🧑‍💻 Join Queen_Anita-V2 Telegram Group 🧑‍💻](https://t.me/dctech)
+* [🧑‍💻 Join Queen_Anita-V1 Telegram Group 🧑‍💻](https://t.me/dctech)
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
 
