@@ -1,0 +1,15 @@
+{
+    "name": "Queen_Anita-V2",
+    "description": "Simple WhatsApp Bot",
+    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
+    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "success_url": "/",
+    "stack": "container",
+
+    },
+    "addons": [{ "plan": "heroku-postgresql:basic" }],
+    "buildpacks": [
+      { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
+      { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
+    ]
+  }
